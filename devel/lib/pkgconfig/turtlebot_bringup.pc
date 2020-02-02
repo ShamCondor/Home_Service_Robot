@@ -1,0 +1,8 @@
+prefix=/home/sfy/robotdevelop/project/mine/Home_Service_Robot/devel
+
+Name: turtlebot_bringup
+Description: Description of turtlebot_bringup
+Version: 2.4.2
+Cflags: 
+Libs: -L/home/sfy/robotdevelop/project/mine/Home_Service_Robot/devel/lib 
+Requires: 

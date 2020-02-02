@@ -1,0 +1,8 @@
+prefix=/home/sfy/robotdevelop/project/mine/Home_Service_Robot/devel
+
+Name: turtlebot_stage
+Description: Description of turtlebot_stage
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/sfy/robotdevelop/project/mine/Home_Service_Robot/devel/lib 
+Requires: 

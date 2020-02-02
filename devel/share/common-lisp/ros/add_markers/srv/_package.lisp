@@ -1,0 +1,10 @@
+(cl:defpackage add_markers-srv
+  (:use )
+  (:export
+   "POSITIONACTION"
+   "<POSITIONACTION-REQUEST>"
+   "POSITIONACTION-REQUEST"
+   "<POSITIONACTION-RESPONSE>"
+   "POSITIONACTION-RESPONSE"
+  ))
+

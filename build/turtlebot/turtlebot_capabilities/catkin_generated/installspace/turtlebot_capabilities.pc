@@ -1,0 +1,8 @@
+prefix=/home/sfy/robotdevelop/project/mine/Home_Service_Robot/install
+
+Name: turtlebot_capabilities
+Description: Description of turtlebot_capabilities
+Version: 2.4.2
+Cflags: 
+Libs: -L/home/sfy/robotdevelop/project/mine/Home_Service_Robot/install/lib 
+Requires: 

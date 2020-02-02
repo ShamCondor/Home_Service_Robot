@@ -1,0 +1,8 @@
+prefix=/home/sfy/robotdevelop/project/mine/Home_Service_Robot/devel
+
+Name: add_markers
+Description: Description of add_markers
+Version: 0.0.0
+Cflags: -I/home/sfy/robotdevelop/project/mine/Home_Service_Robot/devel/include
+Libs: -L/home/sfy/robotdevelop/project/mine/Home_Service_Robot/devel/lib 
+Requires: 
